@@ -1,0 +1,4 @@
+2023-12-19 16:12:538 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (6333f5487444f966458971cb7999fbf5)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 16:12:102 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (d5e2b771d08d0fe9cdda187a3ef987ea)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 16:12:766 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (3713502251fa59de4abaec1e8d47199f)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 16:12:452 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (866e32cb5aa0764adcd3a9c31050a95b)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
